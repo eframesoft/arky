@@ -86,7 +86,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
 
 <table width="568" class="MsoTableGrid" style="border-collapse:collapse;border:none" border="1" cellspacing="0" cellpadding="0">
  <tbody><tr>
-  <td align="left" width="568" valign="top" style="width:426.1pt;border:solid black 1.0pt;&#10;  padding:0cm 5.4pt 0cm 5.4pt" colspan="3">
+  <td align="left" width="568" valign="top" style="text-align:left;width:426.1pt;border:solid black 1.0pt;&#10;  padding:0cm 5.4pt 0cm 5.4pt" colspan="3">
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
   <p class="MsoNormal"><span lang="EN-US">2017</span><span style="font-family:宋体">年发布计划</span></p>
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
@@ -152,7 +152,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr>
-  <td align="left" width="455" valign="top" style="width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
+  <td align="left" width="455" valign="top" style="text-align:left;width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
   <p class="MsoNormal"><span style="font-family:宋体">开发者可以尝试基于</span><span lang="EN-US">arky</span><span style="font-family:宋体">构建支持</span><span lang="EN-US">OXM</span><span style="font-family:宋体">的应用程序，这些应用程序能够随时将自己的状态保存为一个</span><span lang="EN-US">XML</span><span style="font-family:宋体">节点，或者随时从一个</span><span lang="EN-US">XML</span><span style="font-family:宋体">节点中恢复自己的状态。</span></p>
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
   <p class="MsoNormal"><span style="font-family:宋体">对于企业的应用系统而言，</span><span lang="EN-US">XML</span><span style="font-family:宋体">报文的生成和解析，应用配置信息的生成和装载，应用状态的保存和恢复，等等，都可以运用这个机制。</span></p>
@@ -223,7 +223,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr>
-  <td align="left" width="455" valign="top" style="width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
+  <td align="left" width="455" valign="top" style="text-align:left;width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
   <p class="MsoNormal"><span style="font-family:宋体">开发者可以尝试基于</span><span lang="EN-US">arky</span><span style="font-family:宋体">构建支持</span><span lang="EN-US">ORM</span><span style="font-family:宋体">的数据组件，这些数据组件对上层应用提供</span><span lang="EN-US">Select</span><span style="font-family:宋体">，</span><span lang="EN-US">Update</span><span style="font-family:宋体">，</span><span lang="EN-US">Delete</span><span style="font-family:宋体">，</span><span lang="EN-US">Insert</span><span style="font-family:宋体">等方法，使得数据库结构对上层应用透明，无须直接进行</span><span lang="EN-US">SQL</span><span style="font-family:宋体">操作。</span><span lang="EN-US">arky</span><span style="font-family:宋体">的</span><span lang="EN-US">ORM</span><span style="font-family:宋体">框架支持指定映射关系（减少数据传送量，而非全列访问），支持分页检索，支持缓存。</span></p>
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
   <p class="MsoNormal"><span style="font-family:宋体">与常见开源的</span><span lang="EN-US">ORM</span><span style="font-family:宋体">框架相比，</span><span lang="EN-US">arky</span><span style="font-family:宋体">的</span><span lang="EN-US">ORM</span><span style="font-family:宋体">支持机制具有以下轻、便、</span><span lang="EN-US">OO</span><span style="font-family:宋体">支持强大的特点：</span></p>
@@ -233,7 +233,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr>
-  <td align="left" width="568" valign="top" style="width:426.1pt;border:solid black 1.0pt;&#10;  border-top:none;background:#FABF8F;padding:0cm 5.4pt 0cm 5.4pt" colspan="3">
+  <td align="left" width="568" valign="top" style="text-align:left;width:426.1pt;border:solid black 1.0pt;&#10;  border-top:none;background:#FABF8F;padding:0cm 5.4pt 0cm 5.4pt" colspan="3">
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
   <p class="MsoNormal"><span style="font-family:宋体">以下为中远期发布计划，只要开发者需要，我们将尽力确保发布工作按预定时间进行</span></p>
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
@@ -299,7 +299,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr>
-  <td align="left" width="455" valign="top" style="width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
+  <td align="left" width="455" valign="top" style="text-align:left;width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
   <p class="MsoNormal"><span style="font-family:宋体">超酷的企业应用开发语言——</span></p>
   <p class="MsoNormal"><span style="font-family:宋体">完全可视化、图形化开发（不需要你编写</span><span lang="EN-US">XML</span><span style="font-family:宋体">）！</span> </p>
   <p class="MsoNormal"><span style="font-family:宋体">结构化设计语言，在应对复杂业务需求时，其成果的可维护性甚至超过传统的支持结构化设计的编程语言（例如</span><span lang="EN-US">Java</span><span style="font-family:宋体">）！此外，</span><span style="font-family:宋体">它也</span><span style="font-family:宋体">提供了工作流相关指令，能够轻松应对并行、合并、跳转等非结构化的业务流程设计需求！</span></p>
@@ -377,12 +377,12 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr>
-  <td align="left" width="455" valign="top" style="width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
+  <td align="left" width="455" valign="top" style="text-align:left;width:340.95pt;border-top:none;&#10;  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;&#10;  background:#DBE5F1;padding:0cm 5.4pt 0cm 5.4pt" colspan="2">
   <p class="MsoNormal"><span style="font-family:宋体">功能完整的、高品质的、用于构建超大型金融机构核心业务系统的后端应用平台！</span></p>
   </td>
  </tr>
  <tr>
-  <td align="left" width="568" valign="top" style="width:426.1pt;border:solid black 1.0pt;&#10;  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" colspan="3">
+  <td align="left" width="568" valign="top" style="text-align:left;width:426.1pt;border:solid black 1.0pt;&#10;  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" colspan="3">
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
   <p class="MsoNormal"><span lang="EN-US">2018</span><span style="font-family:宋体">年发布计划</span></p>
   <p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
