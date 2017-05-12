@@ -1,4 +1,4 @@
-1、arky的定位和目标
+﻿1、arky的定位和目标
 -------------------
 
 arky是EFS——领驭框架软件公司（Enterprise Framework
@@ -86,11 +86,11 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
 3、arky的路线图
 ---------------
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="568" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="768" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black .5pt;mso-border-themecolor:text1;mso-yfti-tbllook:
  1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
-  <td width="568" colspan="3" valign="top" style="width:426.1pt;border:solid black 1.0pt;
+  <td width="768" colspan="3" valign="top" style="width:426.1pt;border:solid black 1.0pt;
   mso-border-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
@@ -113,7 +113,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">日</span></p>
   </td>
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -124,7 +124,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">开源代码包</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -137,7 +137,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:2">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -147,7 +147,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">基本公共类和接口</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -157,7 +157,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:3">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -165,7 +165,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">oxm</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -178,7 +178,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:4">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -186,7 +186,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span lang="EN-US">component</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -198,7 +198,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:5">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -212,7 +212,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工具</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -225,7 +225,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:6">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -235,7 +235,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工作台</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -248,7 +248,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:7">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -258,7 +258,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">组件<span class="GramE">设计器</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -341,7 +341,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">日</span></p>
   </td>
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -352,7 +352,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">开源代码包</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -365,7 +365,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:10">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -373,7 +373,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">sqlservice</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -385,7 +385,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:11">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -393,7 +393,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">orm</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -406,7 +406,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:12">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -414,7 +414,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">enterpriseresource</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -426,7 +426,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:13">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -439,7 +439,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工具</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -452,7 +452,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:14">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -462,7 +462,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">组件管理器</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -474,7 +474,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:15">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -484,7 +484,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">企业资源管理器</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -567,7 +567,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:17">
-  <td width="568" colspan="3" valign="top" style="width:426.1pt;border:solid black 1.0pt;
+  <td width="768" colspan="3" valign="top" style="width:426.1pt;border:solid black 1.0pt;
   mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
   text1;background:#FABF8F;mso-background-themecolor:accent6;mso-background-themetint:
@@ -591,7 +591,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">日</span></p>
   </td>
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -602,7 +602,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">开源代码包</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -615,7 +615,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:19">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -623,7 +623,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">virtualmachine</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -633,7 +633,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:20">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -641,7 +641,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">adml</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -651,7 +651,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:21">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -664,7 +664,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工具</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -677,7 +677,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:22">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -687,7 +687,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">设计器</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -697,7 +697,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:23">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -708,7 +708,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">调试器</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -718,7 +718,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:24">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -729,7 +729,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">控制台运行环境</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -813,7 +813,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">日</span></p>
   </td>
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -824,7 +824,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">开源代码包</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -837,7 +837,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:27">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -845,7 +845,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">communicationserver</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -857,7 +857,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:28">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -865,7 +865,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">shareresourceservice</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -877,7 +877,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:29">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -885,7 +885,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">synchronousservice</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -897,7 +897,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:30">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -905,7 +905,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">applicationframework.service</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -917,7 +917,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:31">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -925,7 +925,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">applicationframework.batch</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -937,7 +937,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:32">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -950,7 +950,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工具</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -963,7 +963,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:33">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -973,7 +973,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">服务中心管理器</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -998,7 +998,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:35">
-  <td width="568" colspan="3" valign="top" style="width:426.1pt;border:solid black 1.0pt;
+  <td width="768" colspan="3" valign="top" style="width:426.1pt;border:solid black 1.0pt;
   mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt">
@@ -1022,7 +1022,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">日</span></p>
   </td>
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1033,7 +1033,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">开源代码包</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1046,7 +1046,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:37">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1054,7 +1054,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">Clockservice</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1066,7 +1066,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:38">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1074,7 +1074,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">signalservice</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1086,7 +1086,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:39">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1094,7 +1094,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">applicationframework.app</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1108,7 +1108,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:40">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1116,7 +1116,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">applicationframework.web</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1130,7 +1130,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:41">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1144,7 +1144,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工具</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1157,7 +1157,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:42">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1167,7 +1167,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">展示中心管理器</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1201,7 +1201,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">日</span></p>
   </td>
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1212,7 +1212,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">开源代码包</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1225,7 +1225,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:45">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1233,7 +1233,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">enterprisearchitecture</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1245,7 +1245,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:46">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1259,7 +1259,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工具</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1272,7 +1272,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:47">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1282,7 +1282,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">企业架构管理器</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1316,7 +1316,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">日</span></p>
   </td>
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1327,7 +1327,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">开源代码包</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1340,7 +1340,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:50">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1348,7 +1348,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">engine.app</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1362,7 +1362,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:51">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1370,7 +1370,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">engine.web</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1384,7 +1384,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:52">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1392,7 +1392,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">engine.service</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1404,7 +1404,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:53">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1412,7 +1412,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">engine.batch</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1424,7 +1424,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:54">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1432,7 +1432,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   text1;mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal"><span class="SpellE"><span lang="EN-US">engine.businessflow</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1444,7 +1444,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:55">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid windowtext 1.0pt;mso-border-top-alt:solid black .5pt;
   mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1458,7 +1458,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">工具</span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid windowtext .5pt;
@@ -1471,7 +1471,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   </td>
  </tr>
  <tr style="mso-yfti-irow:56">
-  <td width="243" valign="top" style="width:182.4pt;border-top:none;border-left:
+  <td width="343" valign="top" style="width:182.4pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
@@ -1481,7 +1481,7 @@ Framework，简称CBF）。CBF的理念、技术在大型商业银行最关键�
   mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">相关<span class="GramE">设计器</span></span></p>
   </td>
-  <td width="211" valign="top" style="width:158.55pt;border-top:none;border-left:
+  <td width="311" valign="top" style="width:158.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;mso-border-bottom-themecolor:text1;
   border-right:solid black 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
